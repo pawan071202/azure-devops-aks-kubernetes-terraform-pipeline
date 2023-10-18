@@ -4,7 +4,7 @@ Resource Group: terraform-storage-rg
 Storage Account: terraformstatexlrwdrzs
 Container: tfstatefiles
 
-# Manifests Folder
+# Manifests Folder 01
 terraform-manifests
 
 # System Default Working Directory
